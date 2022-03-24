@@ -36,6 +36,17 @@ Tensorflow offers tools to study data and represent it with different techniques
 
 Scikit learn offers very advanced models for representing dataframes, it allows us to work with classification algorithms,SVMs and Random Forest representation.
 
+## GUI Form
+
+![sneak](https://user-images.githubusercontent.com/76041357/159891784-843c96b6-742e-4c45-a973-b2b3fab8e03c.PNG)
+
+Here the user enters all his medical data, and then he can visualize the result with the both deep and machine learning algorithms
+
+![enterV](https://user-images.githubusercontent.com/76041357/159891948-7eb443bb-0a5f-431c-9ca7-3685498c5b4d.PNG)
+
+in this picture, i tried to implement an exception code to make sure that the user has entered all the necessary inputs, in order not to impact the final prediction.
+
+
 
 
 
