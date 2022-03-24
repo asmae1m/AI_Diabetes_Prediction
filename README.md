@@ -41,8 +41,6 @@ Here the user enters all his medical data, and then he can visualize the result 
 
 in this picture, i tried to implement an exception code to make sure that the user has entered all the necessary inputs, in order not to impact the final prediction.
 
-![enterV](https://user-images.githubusercontent.com/76041357/159892523-b6e66522-f772-46ba-a020-6143ca1885bb.PNG)
-
 Now, once the user clicks on one of the result or deep buttons he gets a result written in french, which bascially says that you're not sick with a precision that is close to 100%!
 
 ![youhave](https://user-images.githubusercontent.com/76041357/159892747-dd0ecf88-bb8f-4d71-933c-c05ea1a0f481.PNG)
